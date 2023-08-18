@@ -1,2 +1,2 @@
-![alt text](./wallpaper/01.jpg)
+![alt text](./wallpaper/banner.png)
 # FUNDAMENTOS DE KOTLIN
